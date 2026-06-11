@@ -44,7 +44,6 @@ Refer to the screenshots folder for application screens, workflow design, and ap
 
 ## Future Enhancements
 
-* Email Notifications
 * Role-based Access Control
 * Dashboard Reporting
 * SLA Tracking
