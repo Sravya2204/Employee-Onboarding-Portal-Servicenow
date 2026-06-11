@@ -48,3 +48,21 @@ Refer to the screenshots folder for application screens, workflow design, and ap
 * Role-based Access Control
 * Dashboard Reporting
 * SLA Tracking
+## Demo Video
+
+A complete demonstration of the Employee Onboarding Portal project is available at the link below:
+
+🔗 Google Drive Demo Video:https://drive.google.com/file/d/1ScYeXedUYn3eo8kZDbiotXc04-kr2P_V/view?usp=sharing
+
+### Demonstrated Features
+
+* Employee Request Creation
+* Record Producer
+* Manager Approval Workflow
+* HR Approval Workflow
+* Automated Status Updates
+* End-to-End Employee Onboarding Process
+
+### Project Outcome
+
+Successfully designed and implemented an Employee Onboarding Portal using ServiceNow App Engine Studio with a multi-level approval workflow for onboarding requests.
